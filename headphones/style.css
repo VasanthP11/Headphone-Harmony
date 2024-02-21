@@ -1,0 +1,141 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+nav{
+    background-color: #333A56;
+    color: white;
+    padding: 30px;
+}
+h1,ul,li{
+    display: inline; 
+}
+.list{
+    margin-left: 65%;
+}
+.home:hover{
+    color: antiquewhite;
+    cursor: pointer;  
+}
+.products:hover{
+    color: antiquewhite;
+    cursor: pointer;
+}
+.about:hover{
+    color: antiquewhite;
+    cursor: pointer;
+}
+.contact:hover{
+    color: antiquewhite;
+    cursor: pointer;
+}
+.list>li{
+    margin-right: 20px;
+}
+input{
+    margin-top: 50px;
+    width: 50%;
+    padding: 10px; 
+}
+button{
+    cursor: pointer;
+    height: 40px;
+    width: 80px;
+}
+.product{
+
+    padding: 30px;    
+}
+.img>ul>li{
+    padding: 110px;
+}
+.row1{
+    margin: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.label1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 190px;
+    margin-right: 190px;
+}
+.row2{
+    margin: 70px;
+    display: flex;
+    justify-content: space-between;
+}
+.label2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 190px;
+    margin-right: 190px;
+    margin-bottom: 30px;
+}
+.one:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.two:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.three:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.four:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.five:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.six:hover{
+    color: whitesmoke;
+    cursor: pointer;
+}
+.glow1:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.glow2:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.glow3:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.glow4:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.glow5:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.glow6:hover{
+    filter:drop-shadow(10px 10px 10px black);
+    cursor: pointer;
+}
+.vasa1{
+    padding: 15px;
+}
+.vasa2{
+    padding: 15px;
+}
+.aa{
+    padding: 20px;
+    background-color: #333A56;
+    color: white;
+    cursor: pointer;
+}
+.vasa4{
+    padding: 10px;
+}
+body{
+    background-color: #5C7C89;
+}
